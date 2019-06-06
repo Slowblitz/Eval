@@ -24,6 +24,13 @@ Say what the step will be
 ```
 Numpy : pip3 install numpy
 ```
+### lauching
+
+how to use this script
+your directory must have the same number of ".txt"
+```
+python3 evaluation.py [first directory] [seconde directory]
+```
 
 ## Built With
 
