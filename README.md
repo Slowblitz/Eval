@@ -27,7 +27,7 @@ Numpy : pip3 install numpy
 ### lauching
 
 how to use this script
-your directory must have the same number of ".txt"
+, your directory must have the same numbers of ".txt" and make sure that the 2 folders are sort the same way
 ```
 python3 evaluation.py [first directory] [seconde directory]
 ```
